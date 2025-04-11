@@ -1,0 +1,38 @@
+COMENTARIOS
+
+
+# AULA 07 - Descoberta de Conhecimentos em Textos
+
+OBJETIVO: Demonstrar diferentes abordagens de Extração de Informação.
+TÉCNICAS: spaCy (extração correta de entidades como nomes próprios, organizações, datas e valores) 
+	  gensim (extração de tópicos com LDA)
+
+# AULA 06 - Analise Semantica
+
+OBJETIVO: Explorar a semântica, as sintaxes e as ontologias.
+TÉCNICAS: WordNet (para busca de sinônimos)
+	  spaCy (calcular similaridade das palavras e exibir estrutura sintática da frase)
+	  Owlready2 (define as classes, simulando uma hierarquia.)
+
+# AULA 05 - Analise Sintatica e Estruturas Linguísticas
+
+OBJETIVO: Explorar análise sintática e estruturas linguísticas utilizando bibliotecas de PLN como spaCy e nltk, aplicando etiquetagem gramatical, análise de dependência sintática e visualização de estrutura de frases
+TÉCNICAS: Leitura e limpeza de texto: funções para abrir arquivos e remover caracteres indesejados
+
+# AULA 04 - Extração de Características (Features) em Texto
+ 
+OBJETIVO: Explorar diferentes formas de extração de características (features) de textos para uso em modelos de PLN. O foco está na conversão de dados textuais em representações numéricas por meio de técnicas como Bag of Words (BoW), TF-IDF e Word2Vec
+TÉCNICAS: Bag of Words (criação de matrizes de contagem de palavras usando CountVectorizer)
+	  Word2Vec (criação de vetores semânticos com o gensim.models.Word2Vec, com análise de similaridade entre palavras)
+
+# AULA 03 - Processamento de Texto e Pre-processamento de Dados
+
+OBJETIVO: Demonstrar técnicas básicas de pré-processamento de texto no contexto de PLN, preparando os dados textuais para análises futuras. As atividades visam limpar e organizar textos brutos, facilitando o trabalho de algoritmos de NLP.
+TÉCNICAS: tokens (divisão do texto em palavras)
+	  remoção de stopwords (palavras irrelevantes com base no corpus do NLTK)
+
+# AULA 02 - Python e Biblioteca
+
+OBJETIVO: Apresentar a sintaxe básica da linguagem Python para iniciantes. O foco está na introdução ao uso de variáveis, operadores, entrada de dados com input() e conversão de tipos. É uma base essencial para usuários que pretendem futuramente trabalhar com dados textuais ou técnicas de PLN.
+TÉCNICAS: Não foi aplicada nenhuma técnica de PLN nesta aula.
+	  
